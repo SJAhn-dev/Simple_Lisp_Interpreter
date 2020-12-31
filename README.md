@@ -1,4 +1,4 @@
-# Simple_Lisp_Interpreter
+# Simple Lisp Interpreter
 2020 Programming Language Class
 
 >Simple LISP Interpreters are implemented in these projects.
